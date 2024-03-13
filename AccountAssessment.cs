@@ -1,3 +1,5 @@
+using System;
+
 public abstract class custom_methods
 {
   public double compute_for();
